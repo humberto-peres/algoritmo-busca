@@ -33,13 +33,6 @@ Este relatório apresenta uma análise comparativa entre dois algoritmos de busc
 - **Busca Ingênua:** Comparação caractere a caractere (`O(n·m)`).
 - **Rabin-Karp:** Utiliza hash para acelerar a busca (`O(n + m)` em média).
 
-### 🖥️ Ambiente de Execução
-
-- **Sistema Operacional:** Windows 10/11  
-- **Linguagem:** Python 3.8+  
-- **Hardware:** Processador moderno Intel/AMD  
-- **Medição de tempo:** `time.time()`
-
 ---
 
 ## 📊 Resultados
